@@ -1,0 +1,18 @@
+@media (min-width: 1000px) {
+  .croissant-button {
+    margin: 0 auto;
+    display: block;
+  }
+}
+body {
+  background-color: blueviolet;
+  color: white;
+}
+p {
+  font-size: 15px;
+}
+
+.croissant-button {
+  position: relative;
+  left: 200px;
+}

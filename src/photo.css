@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+.croissant-title {
+  text-align: center;
+}
+body {
+  background-color: brown;
+
+  padding-top: 30px;
+}
+.croissant-photo {
+  max-width: 100%;
+  display: block;
+  margin: 30px auto;
+}
