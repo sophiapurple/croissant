@@ -7,11 +7,14 @@ h1 {
 }
 body {
   background-color: brown;
-  text-align: center;
+
   padding-top: 30px;
 }
 .croissant-photo {
   max-width: 100%;
   display: block;
   margin: 30px auto;
+}
+.main {
+  text-align: center;
 }
